@@ -15,7 +15,7 @@ h2{
 }
 
 h3{
-    margin: 18px 0;
+    margin: 18px ;
 }
 
 hr{
@@ -37,5 +37,57 @@ img{
 
 /* Regole responsive TABLET */
 @media all and (min-width: 768px) and (max-width: 991px){
+    body{
+        padding: 10px 0;
+    }
 
+    .jumbotron, main{
+        margin-top: 50px;
+    }
+
+    h2{
+        font-size: 2.4em;
+    }
+
+    h3{
+        margin: 10px ;
+    }
+
+    img{
+        margin-top: 30px;
+        height: 200px;
+    }
+
+    .cerchio{
+        background-color: #428bca;
+        border-radius: 50%;
+        padding: 30px;
+        height: 260px;
+        margin-top: 80px;
+    }
+}
+
+/* Regole responsive SMARTPHONE */
+@media all and (max-width: 767px){
+    body{
+        text-align: center;
+        padding: 5px;
+    }
+
+    .jumbotron, main{
+        margin-top: 20px;
+    }
+
+    img{
+        margin-top: 20px;
+        height: 150px;
+    }
+
+    .cerchio{
+        background-color: #428bca;
+        border-radius: 50%;
+        padding: 30px;
+        height: 150px;
+        margin-top: 30px;
+    }
 }
