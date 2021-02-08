@@ -1,15 +1,12 @@
-[class*="col-"] {
-  background-color: red;
-  border: 1px solid black;
-  min-height: 100px;
-}
 
+/* Regole generali pagina */
 body{
     text-align: center;
+    padding:100px 8px 8px;
 }
 
-header, .jumbotron, main{
-    background-color: grey;
+.jumbotron, main{
+    background-color: #f9f9f9;
     margin-top: 100px;
 }
 
@@ -17,7 +14,16 @@ h2{
     font-size: 2em;
 }
 
+h3{
+    margin: 18px 0;
+}
+
+hr{
+    margin-top: 10px;
+}
+
 img{
+    margin-top: 20px;
     height: 200px;
 }
 
@@ -26,4 +32,10 @@ img{
     border-radius: 50%;
     padding: 30px;
     height: 260px;
+    margin-top: 80px;
+}
+
+/* Regole responsive TABLET */
+@media all and (min-width: 768px) and (max-width: 991px){
+
 }
