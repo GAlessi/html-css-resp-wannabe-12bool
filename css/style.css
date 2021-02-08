@@ -1,0 +1,10 @@
+[class*="col-"] {
+  background-color: red;
+  border: 1px solid black;
+  height: 100px;
+}
+
+.jumbotron, main{
+    background-color: grey;
+    margin-top: 100px;
+}

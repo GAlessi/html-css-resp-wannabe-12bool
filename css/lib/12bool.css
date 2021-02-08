@@ -233,100 +233,100 @@
 /*Regole colonne desktop */
 @media all and (min-width: 992px){
 
-  .col-lg-1 {
+  .col-ld-1 {
     width: calc((100% / 12) * 1);
   }
 
-  .col-lg-2 {
+  .col-ld-2 {
     width: calc((100% / 12) * 2);
   }
 
-  .col-lg-3 {
+  .col-ld-3 {
     width: calc((100% / 12) * 3);
   }
 
-  .col-lg-4 {
+  .col-ld-4 {
     width: calc((100% / 12) * 4);
   }
 
-  .col-lg-5 {
+  .col-ld-5 {
     width: calc((100% / 12) * 5);
   }
 
-  .col-lg-6 {
+  .col-ld-6 {
     width: calc((100% / 12) * 6);
   }
 
-  .col-lg-7 {
+  .col-ld-7 {
     width: calc((100% / 12) * 7);
   }
 
-  .col-lg-8 {
+  .col-ld-8 {
     width: calc((100% / 12) * 8);
   }
 
-  .col-lg-9 {
+  .col-ld-9 {
     width: calc((100% / 12) * 9);
   }
 
-  .col-lg-10 {
+  .col-ld-10 {
     width: calc((100% / 12) * 10);
   }
 
-  .col-lg-11 {
+  .col-ld-11 {
     width: calc((100% / 12) * 11);
   }
 
-  .col-lg-12 {
+  .col-ld-12 {
     width: calc((100% / 12) * 12);
   }
 
   /* Regole offset desktop*/
 
-  .col-lg-offset-1 {
+  .col-ld-offset-1 {
     margin-left: calc((100% / 12) * 1);
   }
 
-  .col-lg-offset-2 {
+  .col-ld-offset-2 {
     margin-left: calc((100% / 12) * 2);
   }
 
-  .col-lg-offset-3 {
+  .col-ld-offset-3 {
     margin-left: calc((100% / 12) * 3);
   }
 
-  .col-lg-offset-4 {
+  .col-ld-offset-4 {
     margin-left: calc((100% / 12) * 4);
   }
 
-  .col-lg-offset-5 {
+  .col-ld-offset-5 {
     margin-left: calc((100% / 12) * 5);
   }
 
-  .col-lg-offset-6 {
+  .col-ld-offset-6 {
     margin-left: calc((100% / 12) * 6);
   }
 
-  .col-lg-offset-7 {
+  .col-ld-offset-7 {
     margin-left: calc((100% / 12) * 7);
   }
 
-  .col-lg-offset-8 {
+  .col-ld-offset-8 {
     margin-left: calc((100% / 12) * 8);
   }
 
-  .col-lg-offset-9 {
+  .col-ld-offset-9 {
     margin-left: calc((100% / 12) * 9);
   }
 
-  .col-lg-offset-10 {
+  .col-ld-offset-10 {
     margin-left: calc((100% / 12) * 10);
   }
 
-  .col-lg-offset-11 {
+  .col-ld-offset-11 {
     margin-left: calc((100% / 12) * 11);
   }
 
-  .col-lg-offset-12 {
+  .col-ld-offset-12 {
     margin-left: calc((100% / 12) * 12);
   }
